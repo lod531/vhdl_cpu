@@ -1,0 +1,2 @@
+vhdl isim_temp "fourToSixteenMux.vhd"
+vhdl isim_temp "fourToSixteenMuxTest.vhd"

@@ -1,0 +1,6 @@
+vhdl isim_temp "threeToEightMultiplexer.vhd"
+vhdl isim_temp "threeToEightDecoder.vhd"
+vhdl isim_temp "register16.vhd"
+vhdl isim_temp "oneToTwoMultiplexer.vhd"
+vhdl isim_temp "registerFile.vhd"
+vhdl isim_temp "regsiterFileTest.vhd"

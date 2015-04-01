@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "U:/Architecture/assignment1.1/cpuTestBasic_isim_beh.exe" -prj "U:/Architecture/assignment1.1/cpuTestBasic_beh.prj" "work.cpuTestBasic" 

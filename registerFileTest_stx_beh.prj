@@ -1,0 +1,5 @@
+vhdl isim_temp "register16.vhd"
+vhdl isim_temp "fourToSixteenMux.vhd"
+vhdl isim_temp "fourToSixteenDecoder.vhd"
+vhdl isim_temp "registerFile.vhd"
+vhdl isim_temp "registerFileTest.vhd"

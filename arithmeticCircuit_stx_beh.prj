@@ -1,0 +1,5 @@
+vhdl isim_temp "mux4to1.vhd"
+vhdl isim_temp "fullAdder.vhd"
+vhdl isim_temp "arithmeticCircuitLogic.vhd"
+vhdl isim_temp "adder16.vhd"
+vhdl isim_temp "arithmeticCircuit.vhd"

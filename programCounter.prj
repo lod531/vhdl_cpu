@@ -1,0 +1,4 @@
+vhdl work "fullAdder.vhd"
+vhdl work "reg16Reset.vhd"
+vhdl work "adder16.vhd"
+vhdl work "programCounter.vhd"

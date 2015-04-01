@@ -1,0 +1,2 @@
+vhdl isim_temp "reg16Reset.vhd"
+vhdl isim_temp "reg16ResetTest.vhd"

@@ -1,0 +1,3 @@
+vhdl isim_temp "reg8.vhd"
+vhdl isim_temp "controlAddressRegister.vhd"
+vhdl isim_temp "controlAddressRegisterTest.vhd"

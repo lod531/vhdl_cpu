@@ -1,0 +1,5 @@
+vhdl work "mux4to1.vhd"
+vhdl work "fullAdder.vhd"
+vhdl work "arithmeticCircuitLogic.vhd"
+vhdl work "adder16.vhd"
+vhdl work "arithmeticCircuit.vhd"

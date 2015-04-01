@@ -1,0 +1,36 @@
+Release 13.2 - xst O.61xd (nt)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to U:/Architecture/assignment1.1/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> Parameter xsthdpdir set to U:/Architecture/assignment1.1/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.11 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "//tholos.itserv.scss.tcd.ie/ugrad/buinovsa/Architecture/assignment1.1/controlMemory.vhd" in Library work.
+Entity <control_memory> compiled.
+ERROR:HDLParsers:164 - "//tholos.itserv.scss.tcd.ie/ugrad/buinovsa/Architecture/assignment1.1/controlMemory.vhd" Line 60. parse error, unexpected CLOSEPAR
+ERROR:HDLParsers:800 - "//tholos.itserv.scss.tcd.ie/ugrad/buinovsa/Architecture/assignment1.1/controlMemory.vhd" Line 66. Type of control_out is incompatible with type of control_mem.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.33 secs
+ 
+--> 
+
+Total memory usage is 161196 kilobytes
+
+Number of errors   :    2 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

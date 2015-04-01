@@ -1,0 +1,36 @@
+Release 13.2 - xst O.61xd (nt)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to U:/Architecture/assignment1.1/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.16 secs
+ 
+--> Parameter xsthdpdir set to U:/Architecture/assignment1.1/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.16 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "//tholos.itserv.scss.tcd.ie/ugrad/buinovsa/Architecture/assignment1.1/mux4to1.vhd" in Library work.
+Architecture behavioral of Entity mux4to1 is up to date.
+Compiling vhdl file "//tholos.itserv.scss.tcd.ie/ugrad/buinovsa/Architecture/assignment1.1/logicCircuit.vhd" in Library work.
+Architecture behavioral of Entity logiccircuit is up to date.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.81 secs
+ 
+--> 
+
+Total memory usage is 161516 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

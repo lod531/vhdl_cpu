@@ -1,0 +1,5 @@
+set -tmpdir "U:/Architecture/assignment1.1/xst/projnav.tmp"
+set -xsthdpdir "U:/Architecture/assignment1.1/xst"
+elaborate
+-ifn arithmeticCircuit.prj
+-ifmt mixed

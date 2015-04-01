@@ -1,0 +1,79 @@
+Running: C:\Xilinx\13.2\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o U:/Architecture/assignment1.1/cpuTestBasic_isim_beh.exe -prj U:/Architecture/assignment1.1/cpuTestBasic_beh.prj work.cpuTestBasic 
+ISim O.61xd (signature 0x6dd86d03)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "U:/Architecture/assignment1.1/mux4to1.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/fullAdder.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/arithmeticCircuitLogic.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/adder16.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/mux2to16.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/logicCircuit.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/arithmeticCircuit.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/zeroDetect.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/shifter.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/register16.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/fourToSixteenMux.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/fourToSixteenDecoder.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/arithmeticLogicUnit.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/registerFile.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/reg8.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/reg16Reset.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/functionUnit.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/adder8.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/threeToEightMultiplexer.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/signExtend.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/programCounterSignExtend.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/programCounter.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/mux2to8.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/memory.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/instructionRegister.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/datapath.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/controlMemory.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/controlAddressRegister.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/cpu.vhd" into library work
+Parsing VHDL file "U:/Architecture/assignment1.1/cpuTestBasic.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 100112 KB
+Fuse CPU Usage: 546 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity reg16Reset [reg16reset_default]
+Compiling architecture behavioral of entity fullAdder [fulladder_default]
+Compiling architecture behavioral of entity adder16 [adder16_default]
+Compiling architecture behavioral of entity programCounter [programcounter_default]
+Compiling architecture behavioral of entity mux2to16 [mux2to16_default]
+Compiling architecture behavioral of entity memory [memory_default]
+Compiling architecture behavioral of entity reg16 [reg16_default]
+Compiling architecture behavioral of entity instructionRegister [instructionregister_default]
+Compiling architecture behavioral of entity mux2to8 [mux2to8_default]
+Compiling architecture behavioral of entity reg8 [reg8_default]
+Compiling architecture behavioral of entity adder8 [adder8_default]
+Compiling architecture behavioral of entity controlAddressRegister [controladdressregister_default]
+Compiling architecture behavioral of entity control_memory [control_memory_default]
+Compiling architecture behavioral of entity threeToEightMultiplexer [threetoeightmultiplexer_default]
+Compiling architecture behavioral of entity programCounterSignExtend [programcountersignextend_default]
+Compiling architecture behavioral of entity signExtend [signextend_default]
+Compiling architecture behavioral of entity fourToSixteenDecoder [fourtosixteendecoder_default]
+Compiling architecture behavioral of entity fourToSixteenMux [fourtosixteenmux_default]
+Compiling architecture behavioral of entity registerFile [registerfile_default]
+Compiling architecture behavioral of entity mux4to1 [mux4to1_default]
+Compiling architecture behavioral of entity arithmeticCircuitLogic [arithmeticcircuitlogic_default]
+Compiling architecture behavioral of entity arithmeticCircuit [arithmeticcircuit_default]
+Compiling architecture behavioral of entity logicCircuit [logiccircuit_default]
+Compiling architecture behavioral of entity arithmeticLogicUnit [arithmeticlogicunit_default]
+Compiling architecture behavioral of entity shifter [shifter_default]
+Compiling architecture behavioral of entity zeroDetect [zerodetect_default]
+Compiling architecture behavioral of entity functionUnit [functionunit_default]
+Compiling architecture behavioral of entity datapath [datapath_default]
+Compiling architecture behavioral of entity cpu [cpu_default]
+Compiling architecture behavior of entity cputestbasic
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 63 VHDL Units
+Built simulation executable U:/Architecture/assignment1.1/cpuTestBasic_isim_beh.exe
+Fuse Memory Usage: 137792 KB
+Fuse CPU Usage: 1201 ms

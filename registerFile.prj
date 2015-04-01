@@ -1,0 +1,4 @@
+vhdl work "register16.vhd"
+vhdl work "fourToSixteenMux.vhd"
+vhdl work "fourToSixteenDecoder.vhd"
+vhdl work "registerFile.vhd"

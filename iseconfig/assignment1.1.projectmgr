@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="assignment1.1" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/adder16 - Behavioral U:|Architecture|assignment1.1|adder16.vhd</ClosedNode>
+         <ClosedNode>/adder8 - Behavioral U:|Architecture|assignment1.1|adder8.vhd</ClosedNode>
+         <ClosedNode>/arithmeticCircuit - Behavioral U:|Architecture|assignment1.1|arithmeticCircuit.vhd/arithmeticLogicInstance - arithmeticCircuitLogic - Behavioral</ClosedNode>
+         <ClosedNode>/arithmeticCircuit - Behavioral U:|Architecture|assignment1.1|arithmeticCircuit.vhd/rippleAdder - adder16 - Behavioral</ClosedNode>
+         <ClosedNode>/arithmeticCircuit - Behavioral U:|Architecture|assignment1.1|arithmeticCircuitLogic.vhd</ClosedNode>
+         <ClosedNode>/arithmeticCircuitLogic - Behavioral U:|Architecture|assignment1.1|arithmeticCircuitLogic.vhd</ClosedNode>
+         <ClosedNode>/arithmeticLogicUnit - Behavioral U:|Architecture|assignment1.1|arithmeticLogicUnit.vhd/arithmeticCircuitComponent - arithmeticCircuit - Behavioral/arithmeticLogicInstance - arithmeticCircuitLogic - Behavioral</ClosedNode>
+         <ClosedNode>/arithmeticLogicUnit - Behavioral U:|Architecture|assignment1.1|arithmeticLogicUnit.vhd/arithmeticCircuitComponent - arithmeticCircuit - Behavioral/rippleAdder - adder16 - Behavioral</ClosedNode>
+         <ClosedNode>/arithmeticLogicUnit - Behavioral U:|Architecture|assignment1.1|arithmeticLogicUnit.vhd/logicCircuitComponent - logicCircuit - Behavioral</ClosedNode>
+         <ClosedNode>/cpu - Behavioral U:|Architecture|assignment1.1|cpu.vhd/CARinstance - controlAddressRegister - Behavioral</ClosedNode>
+         <ClosedNode>/cpu - Behavioral U:|Architecture|assignment1.1|cpu.vhd/CARinstance - controlAddressRegister - Behavioral/adder - adder8 - Behavioral</ClosedNode>
+         <ClosedNode>/cpu - Behavioral U:|Architecture|assignment1.1|cpu.vhd/datapathInstance - datapath - Behavioral/functionUnitComponent - functionUnit - Behavioral</ClosedNode>
+         <ClosedNode>/cpu - Behavioral U:|Architecture|assignment1.1|cpu.vhd/datapathInstance - datapath - Behavioral/functionUnitComponent - functionUnit - Behavioral/arithmeticLogicUnitComponent - arithmeticLogicUnit - Behavioral/arithmeticCircuitComponent - arithmeticCircuit - Behavioral</ClosedNode>
+         <ClosedNode>/cpu - Behavioral U:|Architecture|assignment1.1|cpu.vhd/datapathInstance - datapath - Behavioral/functionUnitComponent - functionUnit - Behavioral/arithmeticLogicUnitComponent - arithmeticLogicUnit - Behavioral/logicCircuitComponent - logicCircuit - Behavioral</ClosedNode>
+         <ClosedNode>/cpu - Behavioral U:|Architecture|assignment1.1|cpu.vhd/datapathInstance - datapath - Behavioral/functionUnitComponent - functionUnit - Behavioral/shifterComponent - shifter - Behavioral</ClosedNode>
+         <ClosedNode>/cpu - Behavioral U:|Architecture|assignment1.1|cpu.vhd/datapathInstance - datapath - Behavioral/registerFileComponent - registerFile - Behavioral</ClosedNode>
+         <ClosedNode>/cpu - Behavioral U:|Architecture|assignment1.1|cpu.vhd/programCounterInstance - programCounter - Behavioral/adder - adder16 - Behavioral</ClosedNode>
+         <ClosedNode>/datapath - Behavioral U:|Architecture|assignment1.1|datapath.vhd/functionUnitComponent - functionUnit - Behavioral</ClosedNode>
+         <ClosedNode>/datapath - Behavioral U:|Architecture|assignment1.1|datapath.vhd/functionUnitComponent - functionUnit - Behavioral/arithmeticLogicUnitComponent - arithmeticLogicUnit - Behavioral/arithmeticCircuitComponent - arithmeticCircuit - Behavioral</ClosedNode>
+         <ClosedNode>/datapath - Behavioral U:|Architecture|assignment1.1|datapath.vhd/functionUnitComponent - functionUnit - Behavioral/arithmeticLogicUnitComponent - arithmeticLogicUnit - Behavioral/arithmeticCircuitComponent - arithmeticCircuit - Behavioral/arithmeticLogicInstance - arithmeticCircuitLogic - Behavioral</ClosedNode>
+         <ClosedNode>/datapath - Behavioral U:|Architecture|assignment1.1|datapath.vhd/functionUnitComponent - functionUnit - Behavioral/arithmeticLogicUnitComponent - arithmeticLogicUnit - Behavioral/logicCircuitComponent - logicCircuit - Behavioral</ClosedNode>
+         <ClosedNode>/datapath - Behavioral U:|Architecture|assignment1.1|datapath.vhd/functionUnitComponent - functionUnit - Behavioral/shifterComponent - shifter - Behavioral</ClosedNode>
+         <ClosedNode>/datapath - Behavioral U:|Architecture|assignment1.1|datapath.vhd/registerFileComponent - registerFile - Behavioral</ClosedNode>
+         <ClosedNode>/functionUnit - Behavioral U:|Architecture|assignment1.1|functionUnit.vhd</ClosedNode>
+         <ClosedNode>/functionUnit - Behavioral U:|Architecture|assignment1.1|functionUnit.vhd/arithmeticLogicUnitComponent - arithmeticLogicUnit - Behavioral</ClosedNode>
+         <ClosedNode>/functionUnit - Behavioral U:|Architecture|assignment1.1|functionUnit.vhd/arithmeticLogicUnitComponent - arithmeticLogicUnit - Behavioral/arithmeticCircuitComponent - arithmeticCircuit - Behavioral/arithmeticLogicInstance - arithmeticCircuitLogic - Behavioral</ClosedNode>
+         <ClosedNode>/functionUnit - Behavioral U:|Architecture|assignment1.1|functionUnit.vhd/arithmeticLogicUnitComponent - arithmeticLogicUnit - Behavioral/arithmeticCircuitComponent - arithmeticCircuit - Behavioral/rippleAdder - adder16 - Behavioral</ClosedNode>
+         <ClosedNode>/functionUnit - Behavioral U:|Architecture|assignment1.1|functionUnit.vhd/arithmeticLogicUnitComponent - arithmeticLogicUnit - Behavioral/logicCircuitComponent - logicCircuit - Behavioral</ClosedNode>
+         <ClosedNode>/functionUnit - Behavioral U:|Architecture|assignment1.1|functionUnit.vhd/shifterComponent - shifter - Behavioral</ClosedNode>
+         <ClosedNode>/logicCircuit - Behavioral U:|Architecture|assignment1.1|logicCircuit.vhd</ClosedNode>
+         <ClosedNode>/programCounter - Behavioral U:|Architecture|assignment1.1|programCounter.vhd/adder - adder16 - Behavioral</ClosedNode>
+         <ClosedNode>/registerFile - Behavioral U:|Architecture|assignment1.1|registerFile.vhd</ClosedNode>
+         <ClosedNode>/shifter - Behavioral U:|Architecture|assignment1.1|shifter.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>memoryInstance - memory - Behavioral (U:/Architecture/assignment1.1/memory.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000002ac000000020000000000000000000000000200000064ffffffff000000810000000300000002000002ac0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>memoryInstance - memory - Behavioral (U:/Architecture/assignment1.1/memory.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000031a000000040101000100000000000000000000000064ffffffff000000810000000000000004000000b60000000100000000000000440000000100000000000000660000000100000000000001ba0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>adder16.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000032b000000010001000100000000000000000000000064ffffffff0000008100000000000000010000032b0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/adder16Test - behavior U:|Architecture|assignment1.1|adder16Test.vhd</ClosedNode>
+         <ClosedNode>/adder16Test - behavior U:|Architecture|assignment1.1|adder16Test.vhd/uut - adder16 - Behavioral</ClosedNode>
+         <ClosedNode>/adder8Test - behavior U:|Architecture|assignment1.1|adder8Test.vhd</ClosedNode>
+         <ClosedNode>/adder8Test - behavior U:|Architecture|assignment1.1|adder8Test.vhd/uut - adder8 - Behavioral</ClosedNode>
+         <ClosedNode>/arithmeticCircuit - Behavioral U:|Architecture|assignment1.1|arithmeticCircuit.vhd/arithmeticLogicInstance - arithmeticCircuitLogic - Behavioral</ClosedNode>
+         <ClosedNode>/arithmeticCircuit - Behavioral U:|Architecture|assignment1.1|arithmeticCircuit.vhd/rippleAdder - adder16 - Behavioral</ClosedNode>
+         <ClosedNode>/arithmeticCircuitLogicTest - behavior U:|Architecture|assignment1.1|arithmeticCircuitLogicTest.vhd</ClosedNode>
+         <ClosedNode>/arithmeticCircuitTest - behavior U:|Architecture|assignment1.1|arithmeticCircuitTest.vhd</ClosedNode>
+         <ClosedNode>/arithmeticCircuitTest - behavior U:|Architecture|assignment1.1|arithmeticCircuitTest.vhd/uut - arithmeticCircuit - Behavioral/arithmeticLogicInstance - arithmeticCircuitLogic - Behavioral</ClosedNode>
+         <ClosedNode>/arithmeticCircuitTest - behavior U:|Architecture|assignment1.1|arithmeticCircuitTest.vhd/uut - arithmeticCircuit - Behavioral/rippleAdder - adder16 - Behavioral</ClosedNode>
+         <ClosedNode>/arithmeticLogicUnitTest - behavior U:|Architecture|assignment1.1|arithmeticLogicUnitTest.vhd</ClosedNode>
+         <ClosedNode>/arithmeticLogicUnitTest - behavior U:|Architecture|assignment1.1|arithmeticLogicUnitTest.vhd/uut - arithmeticLogicUnit - Behavioral/arithmeticCircuitComponent - arithmeticCircuit - Behavioral</ClosedNode>
+         <ClosedNode>/arithmeticLogicUnitTest - behavior U:|Architecture|assignment1.1|arithmeticLogicUnitTest.vhd/uut - arithmeticLogicUnit - Behavioral/logicCircuitComponent - logicCircuit - Behavioral</ClosedNode>
+         <ClosedNode>/controlAddressRegisterTest - behavior U:|Architecture|assignment1.1|controlAddressRegisterTest.vhd</ClosedNode>
+         <ClosedNode>/controlAddressRegisterTest - behavior U:|Architecture|assignment1.1|controlAddressRegisterTest.vhd/uut - controlAddressRegister - Behavioral/adder - adder8 - Behavioral</ClosedNode>
+         <ClosedNode>/control_memoryTest - behavior U:|Architecture|assignment1.1|control_memoryTest.vhd</ClosedNode>
+         <ClosedNode>/cpuTestBasic - behavior U:|Architecture|assignment1.1|cpuTestBasic.vhd</ClosedNode>
+         <ClosedNode>/cpuTestBasic - behavior U:|Architecture|assignment1.1|cpuTestBasic.vhd/uut - cpu - Behavioral/CARinstance - controlAddressRegister - Behavioral</ClosedNode>
+         <ClosedNode>/cpuTestBasic - behavior U:|Architecture|assignment1.1|cpuTestBasic.vhd/uut - cpu - Behavioral/datapathInstance - datapath - Behavioral</ClosedNode>
+         <ClosedNode>/cpuTestBasic - behavior U:|Architecture|assignment1.1|cpuTestBasic.vhd/uut - cpu - Behavioral/instructionRegisterInstance - instructionRegister - Behavioral</ClosedNode>
+         <ClosedNode>/cpuTestBasic - behavior U:|Architecture|assignment1.1|cpuTestBasic.vhd/uut - cpu - Behavioral/programCounterInstance - programCounter - Behavioral</ClosedNode>
+         <ClosedNode>/datapath - Behavioral U:|Architecture|assignment1.1|datapath.vhd</ClosedNode>
+         <ClosedNode>/datapathTest - behavior U:|Architecture|assignment1.1|datapathTest.vhd</ClosedNode>
+         <ClosedNode>/datapathTest - behavior U:|Architecture|assignment1.1|datapathTest.vhd/uut - datapath - Behavioral/functionUnitComponent - functionUnit - Behavioral</ClosedNode>
+         <ClosedNode>/fourToSixteenDecoderTest - behavior U:|Architecture|assignment1.1|fourToSixteenDecoderTest.vhd</ClosedNode>
+         <ClosedNode>/fourToSixteenMuxTest - behavior U:|Architecture|assignment1.1|fourToSixteenMuxTest.vhd</ClosedNode>
+         <ClosedNode>/fullAdderTest - behavior U:|Architecture|assignment1.1|fullAdderTest.vhd</ClosedNode>
+         <ClosedNode>/functionUnit - Behavioral U:|Architecture|assignment1.1|functionUnit.vhd</ClosedNode>
+         <ClosedNode>/functionUnitTest - behavior U:|Architecture|assignment1.1|functionUnitTest.vhd</ClosedNode>
+         <ClosedNode>/instructionRegisterTest - behavior U:|Architecture|assignment1.1|instructionRegisterTest.vhd</ClosedNode>
+         <ClosedNode>/logicCircuitTest - behavior U:|Architecture|assignment1.1|logicCircuitTest.vhd</ClosedNode>
+         <ClosedNode>/logicCircuitTest - behavior U:|Architecture|assignment1.1|logicCircuitTest.vhd/uut - logicCircuit - Behavioral</ClosedNode>
+         <ClosedNode>/memoryTest - behavior U:|Architecture|assignment1.1|memoryTest.vhd</ClosedNode>
+         <ClosedNode>/mux4to1Test - behavior U:|Architecture|assignment1.1|mux4to1Test.vhd</ClosedNode>
+         <ClosedNode>/oneToTwoMultiplexerTest - behavior U:|Architecture|assignment1.1|oneToTwoMultiplexerTest.vhd</ClosedNode>
+         <ClosedNode>/programCounterSignExtendTest - behavior U:|Architecture|assignment1.1|programCounterSignExtendTest.vhd</ClosedNode>
+         <ClosedNode>/programCounterTest - behavior U:|Architecture|assignment1.1|programCounterTest.vhd</ClosedNode>
+         <ClosedNode>/programCounterTest - behavior U:|Architecture|assignment1.1|programCounterTest.vhd/uut - programCounter - Behavioral/adder - adder16 - Behavioral</ClosedNode>
+         <ClosedNode>/reg16ResetTest - behavior U:|Architecture|assignment1.1|reg16ResetTest.vhd</ClosedNode>
+         <ClosedNode>/reg16Test - behavior U:|Architecture|assignment1.1|reg16Test.vhd</ClosedNode>
+         <ClosedNode>/reg8Test - behavior U:|Architecture|assignment1.1|reg8Test.vhd</ClosedNode>
+         <ClosedNode>/registerFileTest - behavior U:|Architecture|assignment1.1|registerFileTest.vhd</ClosedNode>
+         <ClosedNode>/registerFileTest - behavior U:|Architecture|assignment1.1|registerFileTest.vhd/uut - registerFile - Behavioral</ClosedNode>
+         <ClosedNode>/regsiterFileTest - behavior U:|Architecture|assignment1.1|regsiterFileTest.vhd/uut - registerFile - Behavioral</ClosedNode>
+         <ClosedNode>/shifterTest - behavior U:|Architecture|assignment1.1|shifterTest.vhd</ClosedNode>
+         <ClosedNode>/signExtendTest - behavior U:|Architecture|assignment1.1|signExtendTest.vhd</ClosedNode>
+         <ClosedNode>/threeToEightDecoderTest - behavior U:|Architecture|assignment1.1|threeToEightDecoderTest.vhd</ClosedNode>
+         <ClosedNode>/threeToEightMultiplexerTest - behavior U:|Architecture|assignment1.1|threeToEightMultiplexerTest.vhd</ClosedNode>
+         <ClosedNode>/zeroDetectTest - behavior U:|Architecture|assignment1.1|zeroDetectTest.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>zeroDetectTest - behavior (U:/Architecture/assignment1.1/zeroDetectTest.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >8</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001ed000000020000000000000000000000000200000064ffffffff000000810000000300000002000001ed0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>zeroDetectTest - behavior (U:/Architecture/assignment1.1/zeroDetectTest.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000001d50000010b01000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+</Project>

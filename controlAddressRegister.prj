@@ -1,0 +1,4 @@
+vhdl work "fullAdder.vhd"
+vhdl work "reg8.vhd"
+vhdl work "adder8.vhd"
+vhdl work "controlAddressRegister.vhd"

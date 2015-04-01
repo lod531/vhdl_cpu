@@ -1,0 +1,5 @@
+vhdl isim_temp "fullAdder.vhd"
+vhdl isim_temp "register16.vhd"
+vhdl isim_temp "adder16.vhd"
+vhdl isim_temp "programCounter.vhd"
+vhdl isim_temp "programCounterTest.vhd"

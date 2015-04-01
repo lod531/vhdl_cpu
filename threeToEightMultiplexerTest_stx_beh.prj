@@ -1,0 +1,2 @@
+vhdl isim_temp "threeToEightMultiplexer.vhd"
+vhdl isim_temp "threeToEightMultiplexerTest.vhd"
